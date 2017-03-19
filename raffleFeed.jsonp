@@ -1,0 +1,32 @@
+participants=[
+  {
+    "email": "patriciaspopescu@gmail.com",
+    "name": "patricia popescu",
+    "generalSurvey": false,
+    "sessionSurvey": 1
+  },
+  {
+    "email": "riowaller@gmail.com",
+    "name": "Rio Waller",
+    "generalSurvey": false,
+    "sessionSurvey": 2
+  },
+  {
+    "email": "joshwin.greene@gmail.com",
+    "name": "Joshwin Greene",
+    "generalSurvey": false,
+    "sessionSurvey": 2
+  },
+  {
+    "email": "csaba.toth@sportsboard.io",
+    "name": "Csaba Toth",
+    "generalSurvey": true,
+    "sessionSurvey": 1
+  },
+  {
+    "email": "aric.mine@gmail.com",
+    "name": "Aric Mine",
+    "generalSurvey": false,
+    "sessionSurvey": 0
+  }
+]
